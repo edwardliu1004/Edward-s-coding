@@ -1,0 +1,9 @@
+Edward Liu
+6/27/18
+
+
+In line 4, there is missing a backslash. This can be fixed by adding a backslash.
+
+Line 8 is missing a semicolon in the end. 
+
+The curly brace on 9 and 10 is incorrect. There is also supposed to be 2.

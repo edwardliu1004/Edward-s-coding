@@ -1,0 +1,14 @@
+Edward liu
+6/26/18
+
+Debugging Problems
+
+
+
+Line 6 as no semicolon to end the command line. You can fix this by adding a semicolon.
+
+
+Line 4 has print spelled incorectly. You can fix this by spelling print correctly.
+
+
+Line 2 has no curly brackets at the end. If you add this, it will help the computer understand your command.
